@@ -10,4 +10,4 @@ Below are a few points that explain the use of the various elements in the upcom
 - The second line shows the total number of first array values.
 - The third line gives array values and so on.
 
-DISCLAIMER: I have made this program using a GeeksForGeeks tutorial. The link is provided here: https://www.geeksforgeeks.org/multidimensional-arrays-in-java/
+DISCLAIMER: I made this program using a GeeksForGeeks tutorial. The link is provided here: https://www.geeksforgeeks.org/multidimensional-arrays-in-java/
