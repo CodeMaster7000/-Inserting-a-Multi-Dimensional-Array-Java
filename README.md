@@ -1,4 +1,4 @@
-# Inserting-a-Multi-dimensional-Array-during-Runtime-Java
+# Inserting a Multi-Dimensional Array in Java
 A program coded in Java which finds the total number of even and odd numbers in an input array. 
 
 Below are a few points that explain the use of the various elements in the upcoming code:
